@@ -9,6 +9,6 @@ Building and Running the Program
 4. Run Part B of the porject (Patch B)
 
 Dependencies
-	•	.NET 6.0+ (For C# execution)
-	•	Linux/Windows (Tested on both platforms)
-	•	Git (For cloning the repository)
+.NET 6.0+ (For C# execution)
+Linux/Windows (Tested on both platforms)
+Git (For cloning the repository)
